@@ -162,3 +162,220 @@ void printElements(struct Queue* queue) {
     }
     printf("\n");
 }
+
+
+Input and output:
+
+Enter the capacity of the queue: 5
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 20
+Enqueued element: 20
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 4
+Size of the queue: 1
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 20
+Enqueued element: 20
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 30
+Enqueued element: 30
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 40
+Enqueued element: 40
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 50
+Enqueued element: 50
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 60
+Queue overflow! Cannot enqueue 60
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 3
+Front element: 20
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 4
+Size of the queue: 5
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 4
+Size of the queue: 5
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 5
+Queue is not empty.
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 6
+Queue is full.
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 4
+Size of the queue: 5
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 7
+Queue elements: 20 20 30 40 50 
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 1
+Enter value to enqueue: 60
+Queue overflow! Cannot enqueue 60
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 2
+Dequeued element: 20
+
+Menu:
+1. Enqueue (Push)
+2. Dequeue (Pop)
+3. Peek
+4. Size
+5. Is Empty
+6. Is Full
+7. Print Elements
+8. Exit
+Enter your choice: 8
+Exiting...
+
